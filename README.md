@@ -6,7 +6,7 @@
 ### I'm Andrés, a system engineer student 🧑‍💻  
   
 
-- 🌱 I’m currently learning databases and web development  
+- 🌱 I’m currently learning databases, web development and blockchain  
   
 
 - ⚡ Fact: aware of my spiritual evolution  
