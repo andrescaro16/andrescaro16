@@ -3,7 +3,7 @@
 </div>  
 
 
-### I'm Andrés, a system engineer student 🧑‍💻  
+### I'm Andrés, a computer science student 🧑‍💻  
   
 
 - 🌱 I’m currently learning databases, web development and blockchain  
