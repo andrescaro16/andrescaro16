@@ -35,7 +35,13 @@
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="25" /></a>  
 </div>  
 
-<br/>  
+<br/>
+
+### Statistics
+<div align="center">  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrescaro16&show_icons=true&locale=en&layout=compact" alt="andrescaro16" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrescaro16&" alt="andrescaro16" /></p>
+</div>
 
 
 
