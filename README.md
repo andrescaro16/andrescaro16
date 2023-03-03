@@ -6,7 +6,7 @@
 ### I'm Andrés, a computer science student 🧑‍💻  
   
 
-- 🌱 I’m currently learning databases, web development and blockchain  
+- 🌱 I’m currently learning web development and blockchain  
   
 
 - ⚡ Fact: aware of my spiritual evolution  
