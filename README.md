@@ -48,8 +48,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrescaro16&" alt="andrescaro16" /></p>
 
+<br/>
 
+![](https://github-profile-trophy.vercel.app/?username=andrescaro16&no-bg=false&margin-w=4)
 
+<br/>
 
 ### Connect with me  
 <div align="center">
