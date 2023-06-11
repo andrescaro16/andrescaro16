@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/rcdZQY1/code-HELLO.gif" align="center" style="width: 100%" />
+  <img src="https://i.ibb.co/rcdZQY1/code-HELLO.gif" align="center" style="width: 60%" />
 </div>  
 
 
@@ -44,7 +44,7 @@
 ### Statistics
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrescaro16&label=Profile%20views&color=0e75b6&style=flat" alt="andrescaro16" /> </p>
 
-[![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=andrescaro16&hide=html,css,scss,ejs,stylus,blade,jupyter%20notebook)](https://github.com/andrescaro16/github-readme-stats)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrescaro16&show_icons=true&locale=en&layout=compact&hide=scss,ejs,stylus,blade,jupyter%20notebook" alt="andrescaro16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrescaro16&" alt="andrescaro16" /></p>
 
