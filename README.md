@@ -6,7 +6,7 @@
 ### I'm Andrés, a software engineering student 🧑‍💻  
   
 
-- 🌱 I’m currently learning web development and blockchain  
+- 🌱 I’m currently learning nodejs and write smart contracts with Solidity  
   
 
 - ⚡ Fact: aware of my spiritual evolution  
@@ -25,6 +25,7 @@
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a> 
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a> 
   <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="25" height="25"/>
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="25" /></a>
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>
@@ -44,7 +45,7 @@
 ### Statistics
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrescaro16&label=Profile%20views&color=0e75b6&style=flat" alt="andrescaro16" /> </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrescaro16&show_icons=true&locale=en&layout=compact&hide=scss,ejs,stylus,blade,jupyter%20notebook" alt="andrescaro16" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrescaro16&show_icons=true&locale=en&layout=compact&hide=css,html,scss,ejs,stylus,blade,jupyter%20notebook" alt="andrescaro16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrescaro16&" alt="andrescaro16" /></p>
 
@@ -64,7 +65,10 @@
 </a>
 <a href="https://instagram.com/andrescaro_16" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://twitter.com/andrescaro__16" target="blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="andrescaro__16" />
+</a>
 </div>  
   
 
