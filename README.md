@@ -6,18 +6,16 @@
 ### I'm Andrés, a software engineering student 🧑‍💻  
   
 
-- 🌱 I’m currently learning nodejs and write smart contracts with Solidity  
+- 🌱 I’m currently learning FastApi for backend development  
   
 
 - ⚡ Fact: aware of my spiritual evolution  
   
 
 - 💬 You can reach me by **julicaro2003@gmail.com** or **ajcaror@eafit.edu.co**  
-  
+
 
 <br/>  
-
-
 
 ### Technologies I have used  
 <div align="center">
@@ -44,6 +42,8 @@
 
 ### Statistics
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrescaro16&label=Profile%20views&color=0e75b6&style=flat" alt="andrescaro16" /> </p>
+
+[![Top Commiters Badge](https://user-badge.committers.top/colombia/andrescaro16.svg)](https://user-badge.committers.top/colombia/andrescaro16)
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrescaro16&show_icons=true&locale=en&layout=compact&hide=css,html,scss,ejs,stylus,blade,jupyter%20notebook" alt="andrescaro16" /></p>
 
